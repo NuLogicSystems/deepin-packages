@@ -1,1 +1,1 @@
-deepinp-packages
+deepin-packages
